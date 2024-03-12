@@ -1,0 +1,2 @@
+# codeJourney
+My Coding Journal
